@@ -1,6 +1,6 @@
-#include<std.io>
+#include<stdio.h>
 int main()
 {
-printf("To C, or not to C, This is a Question.\n");
+printf("To C, or not to C, This is the Question.\n");
 return 0;
 }
