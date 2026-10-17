@@ -1,1 +1,6 @@
-
+#include<std.io>
+int main()
+{
+printf("To C, or not to C, This is a Question.\n");
+return 0;
+}
