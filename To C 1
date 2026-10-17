@@ -2,5 +2,5 @@
 int main()
 {
 printf("To C, or not to C, This is the Question.\n");
-return o;
+return 0;
 }
